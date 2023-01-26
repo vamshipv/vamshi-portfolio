@@ -17,10 +17,10 @@ Trained and Api and FrontEnd technology and developed and web based working proj
 
 # Projects 
 
-**Automatic Ordering System For Smart Inventory Management**
+**Automatic Ordering System For Smart Inventory Management** <br>
 Most of the organizations have a separate department or job function called inventory planners who continuously monitor, control and review inventory and interface with production,procurement and finance departments. Large sales organizations handle enormous number of products and it is hard to manually keep track of demand and availability of each product. So, in this project we aim to create a system that can analyse sales data and predict future sales demand for all the products in the inventory using Machine Learning Techniques, and automatically place orders for product shipments if the inventory stock will not be able to meet the predicted demand.<br>
     - **_Technology_**: Python, JavaScript, Flask, Machine Learning, MySql, Git
 
-**Insurity Portal**
+**Insurity Portal** <br>
 Web based portal allows the Agent to perform CURD operation for the consumner business and his properties and can create/modify/issue a policy for a consumner based on his business.<br>
      **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
