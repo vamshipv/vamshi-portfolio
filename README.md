@@ -8,7 +8,7 @@ Full Stack Engineer
 # Work Experience
 
 **Full Stack Developer** @ [Cognizant]() _(Oct 2021 - Present)_ <br>
-Worked on FrondEnd Application and developed new features and depooyed it till production
+Worked on FrondEnd Application and developed new features and depooyed it till production<br>
     - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
 **Full Stack Developer Intern** @ [Cognizant]() _(Oct 2021 - Present)_ <br>
