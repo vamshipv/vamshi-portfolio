@@ -8,9 +8,19 @@ Full Stack Engineer
 # Work Experience
 
 **Full Stack Developer** @ [Cognizant]() _(Oct 2021 - Present)_ <br>
-Worked on FrondEnd Application and developed new features and depooyed it till production.
-    - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Github
+Worked on FrondEnd Application and developed new features and depooyed it till production
+    - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
-**Full Stack Developer Intern** @ [Cognizant]() _(Mar 2021 - Oct 2021)_ <br>
-Trained and Api and FrontEnd technology and developed and web based working project and deployed in Azure Cloud Service.
-    - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Github
+**Full Stack Developer Intern** @ [Cognizant]() _(Oct 2021 - Present)_ <br>
+Trained and Api and FrontEnd technology and developed and web based working project and deployed in Azure Cloud Service<br>
+    - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
+
+# Projects 
+
+**Automatic Ordering System For Smart Inventory Management**
+Most of the organizations have a separate department or job function called inventory planners who continuously monitor, control and review inventory and interface with production,procurement and finance departments. Large sales organizations handle enormous number of products and it is hard to manually keep track of demand and availability of each product. So, in this project we aim to create a system that can analyse sales data and predict future sales demand for all the products in the inventory using Machine Learning Techniques, and automatically place orders for product shipments if the inventory stock will not be able to meet the predicted demand.<br>
+    - **_Technology_**: Python, JavaScript, Flask, Machine Learning, MySql, Git
+
+**Insurity Portal**
+Web based portal allows the Agent to perform CURD operation for the consumner business and his properties and can create/modify/issue a policy for a consumner based on his business.<br>
+     **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
