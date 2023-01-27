@@ -27,7 +27,8 @@ Web based portal allows the Agent to perform CURD operation for the consumner bu
 
 ## 💻 Techincal Skills
 **_Programming Language_**<br>
-Python, JavaScript, MySql, TypeScript, C, C++, C#
+Python, JavaScript, MySql, TypeScript, C, C++, C#<br>
+<br>
 **_Frameworks_**<br>
 Flask, Angular, MongoDb, .Net, ASP.Net
 
@@ -40,10 +41,12 @@ Flask, Angular, MongoDb, .Net, ASP.Net
 ## 🎓 Education
 **_Bachelors of Technology, Computer Science and Engineering_**
 - Dayananda Sagar University, Bangalore, India _(Aug 2017 - May 2021)_
-- CGPA 7.81
+- CGPA 7.81<br>
+<br>
 **_Pre University College_**
 - Jnanada Integrated PU College, Hubli, India _(2015 - May 2017)_
-- 76.4%
+- 76.4%<br>
+<br>
 **_Secondary School_**
 - Chinmaya Vidyalaya, Hubli, India
 - 89.6%
