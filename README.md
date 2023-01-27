@@ -42,11 +42,9 @@ Flask, Angular, MongoDb, .Net, ASP.Net
 **Bachelors of Technology, Computer Science and Engineering**
 - Dayananda Sagar University, Bangalore, India _(Aug 2017 - May 2021)_
 - CGPA 7.81
-
 **Pre University College**
 - Jnanada Integrated PU College, Hubli, India _(2015 - May 2017)_
 - 76.4%
-
 **Secondary School**
 - Chinmaya Vidyalaya, Hubli, India
 - 89.6%
