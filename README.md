@@ -19,15 +19,17 @@ Trained and Api and FrontEnd technology and developed and web based working proj
 
 **Automatic Ordering System For Smart Inventory Management** <br>
 In this project we aim to create a system that can analyse sales data and predict future sales demand for all the products in the inventory using Machine Learning Techniques, and automatically place orders for product shipments if the inventory stock will not be able to meet the predicted demand.<br>
-    - **_Technology_**: Python, JavaScript, Flask, Machine Learning, MySql, Git
+**_Technology_**: Python, JavaScript, Flask, Machine Learning, MySql, Git
 
 **Insurity Portal** <br>
 Web based portal allows the Agent to perform CURD operation for the consumner business and his properties and can create/modify/issue a policy for a consumner based on his business.<br>
-    - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
+**_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
-## 💻 TECHINCAL SKILLS
-**_Programming Language_**: Python, JavaScript, MySql, TypeScript, C, C++, C#
-**_Frameworks_**: Flask, Angular, MongoDb, .Net, ASP.Net
+## 💻 Techincal Skills
+**_Programming Language_**<br>
+Python, JavaScript, MySql, TypeScript, C, C++, C#
+**_Frameworks_**<br>
+Flask, Angular, MongoDb, .Net, ASP.Net
 
 ## 📜 Certifications
 - Python Data Structures by University of Michigan in Coursera
@@ -39,3 +41,9 @@ Web based portal allows the Agent to perform CURD operation for the consumner bu
 **_Bachelors of Technology, Computer Science and Engineering_**
 - Dayananda Sagar University, Bangalore, India _(Aug 2017 - May 2021)_
 - CGPA 7.81
+**_Pre University College_**
+- Jnanada Integrated PU College, Hubli, India _(2015 - May 2017)_
+- 76.4%
+**_Secondary School_**
+- Chinmaya Vidyalaya, Hubli, India
+- 89.6%
