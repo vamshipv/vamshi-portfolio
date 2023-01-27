@@ -9,11 +9,11 @@ Full Stack Engineer
 
 **Full Stack Developer** @ [Cognizant]() _(Oct 2021 - Present)_ <br>
 Worked on FrondEnd Application and developed new features and depooyed it till production<br>
-    - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
+**_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
 **Full Stack Developer Intern** @ [Cognizant]() _(Mar 2021 - Oct 2021)_ <br>
 Trained and Api and FrontEnd technology and developed and web based working project and deployed in Azure Cloud Service<br>
-    - **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
+**_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
 ## 📑 Projects 
 
@@ -26,7 +26,7 @@ Web based portal allows the Agent to perform CURD operation for the consumner bu
 **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
 ## 💻 Techincal Skills
-**_Programming Language_**<br>
+**_Programming Languages_**<br>
 Python, JavaScript, MySql, TypeScript, C, C++, C#<br>
 <br>
 **_Frameworks_**<br>
@@ -36,16 +36,16 @@ Flask, Angular, MongoDb, .Net, ASP.Net
 - Python Data Structures by University of Michigan in Coursera
 - Technical Support Fundamentals by Google in Coursera
 - Full Stack Engineer (FSE 0) Certificate by Cognizant
-- Meta Database Engineer Professional Certificate in Coursera (ongoing)
+- Meta Database Engineer Professional Certificate in Coursera(ongoing)
 
 ## 🎓 Education
 **Bachelors of Technology, Computer Science and Engineering**
 - Dayananda Sagar University, Bangalore, India _(Aug 2017 - May 2021)_
-- CGPA 7.81<br>
+- CGPA 7.81
 
 **Pre University College**
 - Jnanada Integrated PU College, Hubli, India _(2015 - May 2017)_
-- 76.4%<br>
+- 76.4%
 
 **Secondary School**
 - Chinmaya Vidyalaya, Hubli, India
