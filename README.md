@@ -29,20 +29,18 @@ Web based portal allows the Agent to perform CURD operation for the consumner bu
 **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
 **Image Colorization** <br>
-As part of a project on image colorization, developed a deep learning model using Convolutional Neural Networks. The model was trained to predict the most suitable colors for each pixel in an image by analyzing various features such as shapes, textures, and colors in the Lab Color Space. It was able to generate visually appealing images that were consistent with the overall aesthetic of the original pictures.
+As part of a project on image colorization, developed a deep learning model using Convolutional Neural Networks. The model was trained to predict the most suitable colors for each pixel in an image by analyzing various features such as shapes, textures, and colors in the Lab Color Space. It was able to generate visually appealing images that were consistent with the overall aesthetic of the original pictures.<br>
 **_Technology_**: Python, MATHLAB, OpenCV
 
 **2D Race Car Game** <br>
-Designed and developed a 2D race car game in a computer graphics course using C# and OpenGL, which included traffic signals and pedestrian walking. This project required applying graphics concepts to create an interactive and challenging game.
+Designed and developed a 2D race car game in a computer graphics course using C# and OpenGL, which included traffic signals and pedestrian walking. This project required applying graphics concepts to create an interactive and challenging game.<br>
 **_Technology_**: C#, OpenGL
 
 ## 💻 Techincal Skills
 **_Programming Languages_**<br>
 Python, JavaScript, MySql, TypeScript, C, C++, C#<br>
-<br>
 **_Frameworks_**<br>
-Flask, Angular, MongoDb, .Net, ASP.Net
-<br>
+Flask, Angular, MongoDb, .Net, ASP.Net<br>
 **_Tools_**<br>
 Git, Rally, OpenGl, MATHLAB, OpenCV
 
