@@ -8,22 +8,33 @@ Full Stack Engineer
 ## 👨🏻‍💻 Work Experience
 
 **Full Stack Developer** @ [Cognizant]() _(Oct 2021 - Present)_ <br>
-Worked on FrondEnd Application and developed new features and depooyed it till production<br>
+•	As a Full Stack Developer, I am currently managing an American insurance project using my technical expertise and knowledge of agile methodology. My responsibilities include developing the front-end application, constructing robust APIs, and administering database systems.<br>
+•	Through my experience in conducting thorough testing and debugging, I have gained a deep understanding of how to enhance application responsiveness and eﬃciency. I have also collaborated with my team to identify areas for improvement and implemented optimized solutions.<br>
+•	Experience managing Legacy applications has provided me with a profound comprehension of older technologies and systems.<br>
 **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
 **Full Stack Developer Intern** @ [Cognizant]() _(Mar 2021 - Oct 2021)_ <br>
-Trained and Api and FrontEnd technology and developed and web based working project and deployed in Azure Cloud Service<br>
+•	I completed extensive training in full-stack development, with a focus on Angular and .NET technologies. This training provided me with practical experience in developing APIs and deployment of project on cloud platforms, which is a key skill required in the ﬁeld of software development.<br>
+•	The training also helped me enhance my project management skills, reﬁne my data analysis expertise, and improve my communication abilities, all of which are essential skills for success in the technology industry.<br>
 **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
 ## 📑 Projects 
 
-**Automatic Ordering System For Smart Inventory Management** <br>
-In this project we aim to create a system that can analyse sales data and predict future sales demand for all the products in the inventory using Machine Learning Techniques, and automatically place orders for product shipments if the inventory stock will not be able to meet the predicted demand.<br>
+**Inventory System** <br>
+Developed using Flask framework and machine learning process is web-based platform, with features such as automatic order placement of stocks and predict weekly demands and follow seasonal trends which decreases the overhead cost, maintaining optimal inventory levels, businesses can avoid stockouts and overstocking and improving the revenue.<br>
 **_Technology_**: Python, JavaScript, Flask, Machine Learning, MySql, Git
 
 **Insurity Portal** <br>
 Web based portal allows the Agent to perform CURD operation for the consumner business and his properties and can create/modify/issue a policy for a consumner based on his business.<br>
 **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
+
+**Image Colorization** <br>
+As part of a project on image colorization, developed a deep learning model using Convolutional Neural Networks. The model was trained to predict the most suitable colors for each pixel in an image by analyzing various features such as shapes, textures, and colors in the Lab Color Space. It was able to generate visually appealing images that were consistent with the overall aesthetic of the original pictures.
+**_Technology_**: Python, MATHLAB, OpenCV
+
+**2D Racing Car Game** <br>
+Designed and developed a 2D racing car game in a computer graphics course using C# and OpenGL, which included traffic signals and pedestrian walking. This project required applying graphics concepts to create an interactive and challenging game.
+**_Technology_**: C#, OpenGL
 
 ## 💻 Techincal Skills
 **_Programming Languages_**<br>
