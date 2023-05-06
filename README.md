@@ -37,7 +37,7 @@ Designed and developed a 2D race car game in a computer graphics course using C#
 **_Technology_**: C#, OpenGL
 
 **Surveillance Robot Using Raspberry Pi**<br>
-It is a small all-terrain robot equipped with sensors, a camera, and a Raspberry Pi computer. It can be controlled remotely to monitor an area and can detect and capture human faces using the OpenCV (cv2) library in Python, saving them in a designated folder. The robot is designed to move around on different types of terrain, making it suitable for a variety of applications.
+It is a small all-terrain robot equipped with sensors, a camera, and a Raspberry Pi computer. It can be controlled remotely to monitor an area and can detect and capture human faces using the OpenCV (cv2) library in Python, saving them in a designated folder. The robot is designed to move around on different types of terrain, making it suitable for a variety of applications.<br>
 **_Technology_**: Python, CV2, Raspberry Pi
 
 ## 💻 Techincal Skills
