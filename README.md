@@ -36,6 +36,10 @@ As part of a project on image colorization, developed a deep learning model usin
 Designed and developed a 2D race car game in a computer graphics course using C# and OpenGL, which included traffic signals and pedestrian walking. This project required applying graphics concepts to create an interactive and challenging game.<br>
 **_Technology_**: C#, OpenGL
 
+**Surveillance Robot Using Raspberry Pi**<br>
+It is a small all-terrain robot equipped with sensors, a camera, and a Raspberry Pi computer. It can be controlled remotely to monitor an area and can detect and capture human faces using the OpenCV (cv2) library in Python, saving them in a designated folder. The robot is designed to move around on different types of terrain, making it suitable for a variety of applications.
+**_Technology_**: Python, CV2, Raspberry Pi
+
 ## 💻 Techincal Skills
 **_Programming Languages_**<br>
 Python, JavaScript, MySql, TypeScript, C, C++, C#<br>
