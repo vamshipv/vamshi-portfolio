@@ -20,6 +20,10 @@ Full Stack Engineer
 
 ## 📑 Projects 
 
+**WoodWizards (Freelance Project)**<br>
+Developed and implemented a fully-functional e-commerce platform for a local furniture business, providing an intuitive and user-friendly website for customers to browse and request quotations for desired products. Additionally, enabled user registration and account login functionality to allow for saving of preferred items.<br>
+**_Technology_**: Flask, Python, JavaScript, Docker, AWS
+
 **Inventory System** <br>
 Developed using Flask framework and machine learning process is web-based platform, with features such as automatic order placement of stocks and predict weekly demands and follow seasonal trends which decreases the overhead cost, maintaining optimal inventory levels, businesses can avoid stockouts and overstocking and improving the revenue.<br>
 **_Technology_**: Python, JavaScript, Flask, Machine Learning, MySql, Git
