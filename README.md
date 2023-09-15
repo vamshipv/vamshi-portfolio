@@ -13,7 +13,7 @@ Full Stack Engineer
 •	Experience managing Legacy applications has provided me with a profound comprehension of older technologies and systems.<br>
 **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
 
-**Full Stack Developer Intern** @ [Cognizant]() _(Mar 2021 - Oct 2021)_ <br>
+**Full Stack Developer Intern** @ [Cognizant]() _(Jun 2021 - Oct 2021)_ <br>
 •	I completed extensive training in full-stack development, with a focus on Angular and .NET technologies. This training provided me with practical experience in developing APIs and deployment of project on cloud platforms, which is a key skill required in the ﬁeld of software development.<br>
 •	The training also helped me enhance my project management skills, reﬁne my data analysis expertise, and improve my communication abilities, all of which are essential skills for success in the technology industry.<br>
 **_Technology_**: TypeScript, Asp.Net, Sql Server, Angular, Rest Api, Git
