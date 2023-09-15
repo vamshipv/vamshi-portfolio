@@ -7,7 +7,7 @@ Full Stack Engineer
 
 ## 👨🏻‍💻 Work Experience
 
-**Full Stack Developer** @ [Cognizant]() _(Oct 2021 - Present)_ <br>
+**Full Stack Developer** @ [Cognizant]() _(Oct 2021 - Sept 2023)_ <br>
 •	As a Full Stack Developer, I am currently managing an American insurance project using my technical expertise and knowledge of agile methodology. My responsibilities include developing the front-end application, constructing robust APIs, and administering database systems.<br>
 •	Through my experience in conducting thorough testing and debugging, I have gained a deep understanding of how to enhance application responsiveness and eﬃciency. I have also collaborated with my team to identify areas for improvement and implemented optimized solutions.<br>
 •	Experience managing Legacy applications has provided me with a profound comprehension of older technologies and systems.<br>
