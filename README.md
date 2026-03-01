@@ -16,7 +16,7 @@ Full Stack Engineer
 
 ## 🛠️ Featured Projects & Research Focus
 
-### 1. [Single-Point-of-Access Portal]
+### 1. Single-Point-of-Access Portal
 **Context:** Enterprise UI project developed during my tenure at Brose, Hallstadt.
 * **Key Features:** Developed and optimized features for C#.NET WPF applications, implementing UI improvements for a better user experience. Designed a unified dashboard to centralize various internal apps and tools into one highly accessible point of access for employees.
 * **The Process:** Established a continuous feedback loop with users during development. I actively iterated on the design based on their input to ensure practical feasibility and to overcome natural user resistance to adopting new digital workflows.
@@ -29,7 +29,7 @@ Full Stack Engineer
 * **Team Leadership:** Coordinated a four-person development team, effectively dividing architecture tasks and ensuring balanced contributions across the entire project lifecycle.
 * **Relevance to Thesis:** Proves foundational expertise in building AI-assisted NLP workflows capable of analyzing, retrieving, and summarizing large volumes of unstructured text—a critical skill for processing qualitative citizen input.
 
-### 3. [Hardware & OpenCV: Surveillance Robot Using Raspberry Pi (2020)]
+### 3. Hardware & OpenCV: Surveillance Robot Using Raspberry Pi (2020)
 **Context:** Physical hardware system designed for real-time environmental monitoring and remote operations.
 * **Key Features:** Designed and built a small, all-terrain mobile robot equipped with a camera, sensors, and a Raspberry Pi computer. 
 * **AI Integration:** Implemented edge-computing computer vision using the OpenCV (cv2) library in Python to detect and capture human faces, saving them autonomously to a designated directory.
