@@ -1,7 +1,6 @@
 # Vamshi Vijayakrishna
 
-Full Stack Engineer
-**Intl. Software Systems Science | University of Bamberg, Germany**
+**Full Stack Engineer | Intl. Software Systems Science,  University of Bamberg**
 
 [Email](mailto:vamshi.pva@gmail.com) / [Website]() / [LinkedIn](https://www.linkedin.com/in/vamshipv/) / [Github](https://www.github.com/vamshipv)
 
