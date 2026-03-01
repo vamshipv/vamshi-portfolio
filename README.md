@@ -29,7 +29,7 @@ Full Stack Engineer
 * **Team Leadership:** Coordinated a four-person development team, effectively dividing architecture tasks and ensuring balanced contributions across the entire project lifecycle.
 * **Relevance to Thesis:** Proves foundational expertise in building AI-assisted NLP workflows capable of analyzing, retrieving, and summarizing large volumes of unstructured text—a critical skill for processing qualitative citizen input.
 
-### 3. [Hardware & OpenCV: Surveillance Robot Using Raspberry Pi (2020)](URL_HERE)
+### 3. [Hardware & OpenCV: Surveillance Robot Using Raspberry Pi (2020)]
 **Context:** Physical hardware system designed for real-time environmental monitoring and remote operations.
 * **Key Features:** Designed and built a small, all-terrain mobile robot equipped with a camera, sensors, and a Raspberry Pi computer. 
 * **AI Integration:** Implemented edge-computing computer vision using the OpenCV (cv2) library in Python to detect and capture human faces, saving them autonomously to a designated directory.
